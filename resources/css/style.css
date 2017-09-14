@@ -10,7 +10,10 @@ body {
 }
 
 nav {
-  color: white;
+  color: seashell;
+  font-size: 22px;
+  opacity: 0.9;
+  font-family: Helvetica;
 
 
 }
