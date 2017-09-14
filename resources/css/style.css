@@ -9,7 +9,7 @@ body {
   height: 69px;
 }
 
-nav {
+.fontstyle {
   color: seashell;
   font-size: 22px;
   opacity: 0.9;
@@ -34,4 +34,33 @@ li {
   height: 50px;
   opacity: 0.9;
   color: seashell;
+}
+
+#jarimage {
+  height: 700px;
+  width: 1200px;
+  position: relative;
+}
+
+.maininfo {
+  background-color: black;
+  text-align: center;
+}
+
+.strip {
+  background-color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 1200px;
+  height: 97px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  padding: 10px;
+  display: block;
+
+
 }
