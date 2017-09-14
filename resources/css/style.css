@@ -21,6 +21,7 @@ nav {
 ul {
   display: flex;
   list-style-type: none;
+  text-decoration: underline;
 
 }
 
