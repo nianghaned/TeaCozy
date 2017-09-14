@@ -1,7 +1,24 @@
 body {
   background-color: black;
 }
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
 
 nav {
   color: white;
+
+
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+
+}
+
+li {
+  padding-right: 23px;
 }
