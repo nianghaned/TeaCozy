@@ -5,6 +5,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 1px solid seashell;
 }
 
 nav {
@@ -21,4 +22,11 @@ ul {
 
 li {
   padding-right: 23px;
+}
+
+#logo {
+  padding-left: 10px;
+  height: 50px;
+  opacity: 0.9;
+  color: seashell;
 }
